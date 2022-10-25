@@ -1,0 +1,12 @@
+COLUMNS
+int ID
+int<ChrRaces::ID> RaceID?
+int<ChrClasses::ID> ClassID?
+int<CreatureDisplayInfo::ID> CreatureDisplayInfoID?
+
+LAYOUT 0D2649CC
+BUILD 9.2.0.41089, 9.2.0.41257, 9.2.0.41360, 9.2.0.41462
+$noninline,id$ID<32>
+RaceID<32>
+ClassID<32>
+CreatureDisplayInfoID<32>

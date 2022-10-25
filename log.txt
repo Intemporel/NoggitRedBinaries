@@ -1,0 +1,10 @@
+80 - (NoggitApplication.cpp:11): Noggit Studio - 3.UNKNOWN
+80 - (NoggitApplication.cpp:14): Noggit Application Path: "C:\\Users\\Skarn\\Documents\\noggit-red\\cmake-build-relwithdebinfo\\bin\\noggit.exe"
+80 - (NoggitApplication.cpp:17): Noggit Execution Path: "C:\\Users\\Skarn\\Documents\\noggit-red\\cmake-build-relwithdebinfo\\bin"
+80 - (NoggitApplication.cpp:29): Noggit Relative Path: "C:\\Users\\Skarn\\Documents\\noggit-red\\cmake-build-relwithdebinfo\\bin"
+85 - (NoggitApplication.cpp:52): Noggit Configuration File Loaded! Creating New File: "C:\\Users\\Skarn\\Documents\\noggit-red\\cmake-build-relwithdebinfo\\bin\\noggit.json"
+85 - (NoggitApplication.cpp:67): Listfile found! : listfile.csv
+85 - (NoggitApplication.cpp:75): Database Definitions found! : definitions
+1603 - (NoggitApplication.cpp:104): [Debug] GL: Version: 4.1.14802 Core Profile Forward-Compatible Context 21.40.24 30.0.14024.3
+1603 - (NoggitApplication.cpp:105): [Debug] GL: Vendor: ATI Technologies Inc.
+1603 - (NoggitApplication.cpp:106): [Debug] GL: Renderer: AMD Radeon(TM) Graphics
