@@ -1,0 +1,13 @@
+<!--3.UNK 01-11-22-->
+<html>
+  <h1 align="center"><img src="changelog/attachment/1.png" width="40" height="40"/></h1>
+  <h1 align="center">Changelog - 01 november 2022</h1>
+  <br>
+  <h2>Tool</h2>
+  <p> - Toggle Vertex Color ( SHIFT + F6 )</p>
+  <br>
+  <h2>Fix</h2>
+  <p> - Fix crash when you select a texture inside the texture picker</p>
+  <br><br><br>
+  <center>Noggit Studio Red.</center>
+</html>

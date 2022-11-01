@@ -1,6 +1,7 @@
 bearer/qgenericbearer.dll 14d67b1249a52090a8d3edca9fdcc262
 bearer/qgenericbearerd.dll 782a073f0bdae4539a834b8ad896a5d7
-changelog/20221027.CHANGELOG 866edd18c0c46f1ce1e8f62b610708fd
+changelog/20221027.CHANGELOG 5a0a94a51c66a1518f1214866b98c448
+changelog/20221101.CHANGELOG fe8eef81dbf2c65d5cf764124af80795
 changelog/attachment/1.png dd3de3d94f10a35433be696356ab1f6e
 definitions/Achievement.dbd 540e37f958f2e62eac3769cb6e50c40c
 definitions/Achievement_Category.dbd dc118acf9e1826f8bca5a6ac5c04c9eb
@@ -1015,7 +1016,7 @@ imageformats/qwbmpd.dll a6645fe0e8710a838f360e5165ebdcae
 imageformats/qwebp.dll 308e4565c3c5646f9abd77885b07358e
 imageformats/qwebpd.dll 8b798a16689a6841b7b998ffc9e65f65
 noggit-updater.exe 345d8f620d8fd4c675a696ddf790edbf
-noggit.exe 4274aecc204b9f7c2e626ce0011b9ea3
+noggit.exe 34184e9ff6fa0d2d3f51f03ab4647dd4
 noggit.exp 8031dc530729f6af9b16b281f7607db6
 noggit.json 602f377eac0b00dcd047694ec8a1ad59
 noggit.lib f6ca13cd56767e3c624717347099d402
