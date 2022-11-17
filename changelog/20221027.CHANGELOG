@@ -1,14 +1,15 @@
 <!--3.UNK 10-27-22-->
 <html>
+  <br><br>
   <h1 align="center"><img src="changelog/attachment/1.png" width="40" height="40"/></h1>
   <h1 align="center">Changelog - 27 october 2022</h1>
   <br>
-  <p>Adding 2 systems for user experience, you never need to download the binaries by hand !<br>
-  There is nothing more in this update.</p>
+  <center><p>Adding 2 systems for user experience, you never need to download the binaries by hand !<br>
+  There is nothing more in this update.</p></center>
   <br>
   <ul>
-    <ol type="circle"><h2>Auto Updater</h2></ol>
-    <ol type="circle"><h2>Changelog System</h2></ol>
+    <ol><h2>Auto Updater</h2></ol>
+    <ol><h2>Changelog System</h2></ol>
   </ul>
   <br><br><br>
   <center>Noggit Studio Red.</center>
